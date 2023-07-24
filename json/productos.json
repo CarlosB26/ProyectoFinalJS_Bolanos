@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Maquina",
+        "precio": 138000,
+        "imagen": "maquina.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Sombrilla",
+        "precio": 200000,
+        "imagen": "sombrilla.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "Cigarrera",
+        "precio": 148000,
+        "imagen": "cigarrera.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "Camara espia",
+        "precio": 85000,
+        "imagen": "camaraEspia.webp"
+    },
+    {
+        "id": 5,
+        "nombre": "Encendedor carta",
+        "precio": 25000,
+        "imagen": "encendedorCarta.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "Encendedor electrico",
+        "precio": 35000,
+        "imagen": "encendedorElectrico.webp"
+    }
+]
